@@ -1,0 +1,6 @@
+edu\unicundi\service\AlumnoService.class
+edu\unicundi\service\IAlumnoService.class
+edu\unicundi\repository\AlumnoRepoImp.class
+edu\unicundi\entity\Alumno.class
+edu\unicundi\entity\Alumno_.class
+edu\unicundi\repository\IAlumnoRepo.class
